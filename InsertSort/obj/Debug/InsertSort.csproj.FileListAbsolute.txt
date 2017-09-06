@@ -1,0 +1,7 @@
+C:\Users\Anton\source\repos\InsertSort\InsertSort\bin\Debug\InsertSort.exe.config
+C:\Users\Anton\source\repos\InsertSort\InsertSort\bin\Debug\InsertSort.exe
+C:\Users\Anton\source\repos\InsertSort\InsertSort\bin\Debug\InsertSort.pdb
+C:\Users\Anton\source\repos\InsertSort\InsertSort\obj\Debug\InsertSort.csprojResolveAssemblyReference.cache
+C:\Users\Anton\source\repos\InsertSort\InsertSort\obj\Debug\InsertSort.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\InsertSort\InsertSort\obj\Debug\InsertSort.exe
+C:\Users\Anton\source\repos\InsertSort\InsertSort\obj\Debug\InsertSort.pdb
